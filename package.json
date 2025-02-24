@@ -6,7 +6,8 @@
   "scripts": {
     "generate": "node src/scripts/generateProduct.js",
     "filter": "node src/scripts/filterByMinPrice.js",
-    "modify": "node src/scripts/modifyProducts.js"
+    "modify": "node src/scripts/modifyProducts.js",
+    "count": "node src/scripts/countTotalPrice.js"
   },
   "keywords": [],
   "author": "m.harchenko <m.harchenko@i.ua>",
