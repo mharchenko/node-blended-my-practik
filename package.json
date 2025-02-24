@@ -4,7 +4,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "generate": "node src/scripts/generateProduct.js"
+    "generate": "node src/scripts/generateProduct.js",
+    "filter": "node src/scripts/filterByMinPrice.js",
+    "modify": "node src/scripts/modifyProducts.js"
   },
   "keywords": [],
   "author": "m.harchenko <m.harchenko@i.ua>",
