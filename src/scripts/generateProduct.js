@@ -18,4 +18,4 @@ export const generateProduct = async (number) => {
   }
 };
 
-generateProduct(10);
+generateProduct(20);

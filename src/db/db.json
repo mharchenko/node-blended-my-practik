@@ -98,5 +98,125 @@
     "name": "Ergonomic Silk Hat",
     "price": "591.99",
     "category": "Home"
+  },
+  {
+    "name": "Handmade Gold Chair",
+    "price": "570.99",
+    "category": "Jewelry",
+    "description": "Introducing the Slovakia-inspired Table, blending squiggly style with local craftsmanship"
+  },
+  {
+    "name": "Handcrafted Steel Chips",
+    "price": "981.09",
+    "category": "Computers",
+    "description": "New Tuna model with 33 GB RAM, 845 GB storage, and idealistic features"
+  },
+  {
+    "name": "Soft Rubber Shoes",
+    "price": "108.65",
+    "category": "Electronics",
+    "description": "Introducing the Gambia-inspired Sausages, blending wrathful style with local craftsmanship"
+  },
+  {
+    "name": "Soft Gold Soap",
+    "price": "205.89",
+    "category": "Movies",
+    "description": "Discover the shark-like agility of our Gloves, perfect for growing users"
+  },
+  {
+    "name": "Bespoke Concrete Chair",
+    "price": "548.69",
+    "category": "Books",
+    "description": "Our frog-friendly Chicken ensures utter comfort for your pets"
+  },
+  {
+    "name": "Unbranded Wooden Fish",
+    "price": "660.79",
+    "category": "Automotive",
+    "description": "Our butterfly-friendly Shoes ensures usable comfort for your pets"
+  },
+  {
+    "name": "Soft Granite Soap",
+    "price": "322.15",
+    "category": "Automotive",
+    "description": "Our fresh-inspired Salad brings a taste of luxury to your vague lifestyle"
+  },
+  {
+    "name": "Electronic Plastic Soap",
+    "price": "180.29",
+    "category": "Tools",
+    "description": "The orchid Fish combines Saint Lucia aesthetics with Osmium-based durability"
+  },
+  {
+    "name": "Gorgeous Metal Hat",
+    "price": "747.35",
+    "category": "Shoes",
+    "description": "Discover the penguin-like agility of our Shoes, perfect for infatuated users"
+  },
+  {
+    "name": "Refined Granite Chips",
+    "price": "733.09",
+    "category": "Computers",
+    "description": "Professional-grade Pants perfect for small training and recreational use"
+  },
+  {
+    "name": "Refined Silk Shoes",
+    "price": "436.69",
+    "category": "Automotive",
+    "description": "Discover the kangaroo-like agility of our Pants, perfect for scary users"
+  },
+  {
+    "name": "Ergonomic Cotton Gloves",
+    "price": "330.79",
+    "category": "Industrial",
+    "description": "The Decentralized systemic focus group Keyboard offers reliable performance and gentle design"
+  },
+  {
+    "name": "Awesome Concrete Hat",
+    "price": "153.50",
+    "category": "Electronics",
+    "description": "Experience the teal brilliance of our Hat, perfect for gruesome environments"
+  },
+  {
+    "name": "Electronic Plastic Gloves",
+    "price": "405.45",
+    "category": "Home",
+    "description": "New Table model with 47 GB RAM, 794 GB storage, and dull features"
+  },
+  {
+    "name": "Electronic Concrete Salad",
+    "price": "323.63",
+    "category": "Books",
+    "description": "Professional-grade Chicken perfect for deserted training and recreational use"
+  },
+  {
+    "name": "Modern Granite Chips",
+    "price": "998.95",
+    "category": "Clothing",
+    "description": "New Pants model with 83 GB RAM, 373 GB storage, and polished features"
+  },
+  {
+    "name": "Small Steel Bacon",
+    "price": "115.15",
+    "category": "Health",
+    "description": "Our crispy-inspired Ball brings a taste of luxury to your yellowish lifestyle"
+  },
+  {
+    "name": "Refined Cotton Keyboard",
+    "price": "218.59",
+    "category": "Kids",
+    "description": "Our fresh-inspired Mouse brings a taste of luxury to your soulful lifestyle"
+  },
+  {
+    "name": "Licensed Bamboo Ball",
+    "price": "420.75",
+    "category": "Movies",
+    "description": "The AI-driven cohesive local area network Keyboard offers reliable performance and realistic design"
+  },
+  {
+    "name": "Licensed Gold Bike",
+    "price": "820.29",
+    "category": "Computers",
+    "description": "Discover the deer-like agility of our Tuna, perfect for fluffy users"
   }
 ]
